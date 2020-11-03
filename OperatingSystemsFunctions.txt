@@ -1,0 +1,3 @@
+Start-up:
+When you start up your computer, after a series of tests are successfully executed, the kernel of your operating system (OS) and other instructions load from internal storage to the RAM. Then the OS takes over, initiating security measures then granting access to the user interface. If your applications aren't running smoothly or a device you plugged in isn't recognized, you can do a reboot (turning it off & on again) and it will often resolve the issue.
+ 

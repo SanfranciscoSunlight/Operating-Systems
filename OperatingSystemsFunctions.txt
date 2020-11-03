@@ -3,3 +3,6 @@ When you start up your computer, after a series of tests are successfully execut
 
 Manage Programs:
 The OS manages and prioritizes your programs and applications, as well as other background routines that keep everything running smoothly. We use it to install and uninstall apps. On a multitasking OS, you can run multiple applications at a time. With a multiuser OS, multiple people can run programs simultaneously.
+
+User Interface:
+The User Interface (UI) is what we use to communicate with the OS. There are two types, command-line interface and graphical user interface (GUI). GUI’s tend to be designed to be intuitive and user friendly, whereas the command line interface is more for deep level access but requires more knowledge of commands to use.  
